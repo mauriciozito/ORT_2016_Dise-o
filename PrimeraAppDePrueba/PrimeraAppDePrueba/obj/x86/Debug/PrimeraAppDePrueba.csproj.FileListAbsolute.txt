@@ -1,0 +1,7 @@
+\\tsclient\C\Mauricio Zito\RepoGit\ORT2016_diseno\PrimeraAppDePrueba\PrimeraAppDePrueba\bin\Debug\PrimeraAppDePrueba.exe
+\\tsclient\C\Mauricio Zito\RepoGit\ORT2016_diseno\PrimeraAppDePrueba\PrimeraAppDePrueba\bin\Debug\PrimeraAppDePrueba.pdb
+\\tsclient\C\Mauricio Zito\RepoGit\ORT2016_diseno\PrimeraAppDePrueba\PrimeraAppDePrueba\obj\x86\Debug\PrimeraAppDePrueba.Form1.resources
+\\tsclient\C\Mauricio Zito\RepoGit\ORT2016_diseno\PrimeraAppDePrueba\PrimeraAppDePrueba\obj\x86\Debug\PrimeraAppDePrueba.Properties.Resources.resources
+\\tsclient\C\Mauricio Zito\RepoGit\ORT2016_diseno\PrimeraAppDePrueba\PrimeraAppDePrueba\obj\x86\Debug\PrimeraAppDePrueba.csproj.GenerateResource.Cache
+\\tsclient\C\Mauricio Zito\RepoGit\ORT2016_diseno\PrimeraAppDePrueba\PrimeraAppDePrueba\obj\x86\Debug\PrimeraAppDePrueba.exe
+\\tsclient\C\Mauricio Zito\RepoGit\ORT2016_diseno\PrimeraAppDePrueba\PrimeraAppDePrueba\obj\x86\Debug\PrimeraAppDePrueba.pdb
